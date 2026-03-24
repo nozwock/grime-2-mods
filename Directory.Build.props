@@ -40,6 +40,12 @@
     <Reference Include="$(DllDir)/AD_*.dll">
       <Private>False</Private>
     </Reference>
+    <Reference Include="$(DllDir)/Sirenix.Serialization*.dll">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="$(DllDir)/Il2Cpp*.dll">
+      <Private>False</Private>
+    </Reference>
   </ItemGroup>
 
   <ItemGroup Condition="'$(TargetFramework.TrimEnd(`0123456789`))' == 'net'">

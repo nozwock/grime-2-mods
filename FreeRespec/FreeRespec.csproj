@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <BepInExPluginGuid>nozwock.FreeRespec</BepInExPluginGuid>
+    <Product>Free Respec</Product>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+</Project>
